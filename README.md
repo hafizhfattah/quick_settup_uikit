@@ -8,6 +8,9 @@ Made With Flutter
 - App Name
 - Splash Screen
 
+### 📄 **Page Include**
+- Home Page
+
 ### 🎖  **Installing**
 ```
 dependencies:
@@ -42,10 +45,11 @@ flutter_native_splash:
   android_12:
     image: assets/flutter.png
     icon_background_color: "#ffffff"
-
 ```
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
 2. Run `flutter pub get` In Terminal
 3. Run the project In Web or Emulator
+
+### 📷 **Demo**
