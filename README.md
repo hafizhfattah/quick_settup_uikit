@@ -1,7 +1,6 @@
 ### 📦 **Quick Setup UIKit**
 
 This is a Quick Setup Template for Starting an App
-Made With Flutter
 
 ### 🎁 **Fiture**
 - Icon Logo
