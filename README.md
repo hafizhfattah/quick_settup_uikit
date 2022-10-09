@@ -1,6 +1,6 @@
-### 📦 **Flash SetUp**
+### 📦 **Quick Setup**
 
-Fast Setup Fro Flutter Project
+This is a Quick Setup Template for Starting an App
 Made With Flutter
 
 ### 🎁 **Fiture**
@@ -53,4 +53,4 @@ flutter_native_splash:
 3. Run the project In Web or Emulator
 
 ### 📷 **Demo**
-- Reference ``
+
