@@ -1,6 +1,6 @@
 ### 📦 **Quick Setup UIKit**
 
-This is a Quick Setup Template for Starting an App
+This is a Quick Setup Template for Starting an App.
 
 ### 🎁 **Fiture**
 - Icon Logo
